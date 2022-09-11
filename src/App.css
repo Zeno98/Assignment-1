@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,18 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+.container{
+  /* position: relative; */
+  width: 90vh;
+  display: grid;
+  margin-top: 5rem;
+  grid-template-columns: repeat(2,90%);
+}
+
+.filter-div{
+  position: relative;
+  padding-left: 5rem;
 }

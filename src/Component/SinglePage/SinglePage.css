@@ -1,0 +1,32 @@
+.item-list{
+    height: 10rem;
+    list-style: none;
+    border-radius: 1rem;
+    border: 1px solid;
+    margin-bottom: 2rem;
+    scroll-behavior: smooth;
+    position: relative;
+    box-shadow: 0px 0px 5px 5px grey;
+    border: none;
+}
+
+.item-img{
+    margin: 2rem 2rem;
+    width: 20%;
+    height: 70%;
+    border-radius: 10px;
+}
+.drink-name{
+    position: relative;
+    bottom: 6rem;
+    font-weight: bold;
+    font-size: large;
+}
+
+.items-length{
+    color: grey;
+    margin-left: 1rem;
+    position: relative;
+    top: -5px;
+    font-size: medium;
+}

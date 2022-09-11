@@ -1,0 +1,23 @@
+.filter-sub-div{
+    position: relative;
+    position: sticky;
+    top: 20px;
+}
+.filter-select{
+    width: 15rem;
+    height: 3rem;
+    font-size: large;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgb(210, 208, 208) ;
+    margin-top: 1rem;
+    border: 1px solid rgb(210, 208, 208);
+    
+}
+.filter-title{
+    /* position: fixed; */
+    
+}
+
+.option-item{
+   padding-bottom: 2rem;
+}
